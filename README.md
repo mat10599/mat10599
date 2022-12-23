@@ -8,7 +8,7 @@
 **What you can find on this github:**
 
 - notebooks discussing some basic machine learnings concept:
-    [machine learning notebooks](/machine-learning-notebooks)
+    [machine learning notebooks](https://github.com/mat10599/machine-learning-notebooks)
   
 - 
 
