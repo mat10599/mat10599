@@ -10,5 +10,8 @@
 - notebooks discussing some basic machine learnings concept:
     [machine learning notebooks](https://github.com/mat10599/machine-learning-notebooks)
   
-- 
+- notebooks discussing basic and widely used algorithms 
+    [algorithm notebooks](https://github.com/mat10599/algorithm)
+    
+- my website [click here](https://mat10599.github.io/mathieunordin.github.io/)
 
