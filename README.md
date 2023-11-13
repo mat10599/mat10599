@@ -1,6 +1,6 @@
 **About me:** 
 - 👋 Hi, I’m @mat10599, currently in Master of Data Science, passionate about ML and statistics.
-- Studying at Ecole Polytechnique in Paris 
+- Studying at Ecole Polytechnique & HEC in Paris 
 - Hold a BSc in maths & stats from the University of Warwick 
 <br>
 
