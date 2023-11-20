@@ -15,4 +15,6 @@
 - ML project where the goal is to predict bicycle traffic in Paris. [main notebook](https://github.com/mat10599/bike_counters/blob/main/final_notebook.ipynb)
 
 - Streamlit made app to allow user to label images
+
+- Small ML project to predict Bike traffic in Paris 
   
