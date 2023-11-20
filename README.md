@@ -16,5 +16,3 @@
 
 - Streamlit made app to allow user to label images
 
-- Small ML project to predict Bike traffic in Paris 
-  
